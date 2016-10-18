@@ -162,7 +162,7 @@
             "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/env-northrend14-full-2000x1335-63.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/env-northrend14-full-2000x1335-63-2000x1335-23.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
