@@ -162,7 +162,7 @@
             "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/6fzlzvc-2000x1125-73.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/env-northrend14-full-2000x1335-63.png",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -301,13 +301,13 @@
             "paddingTop": 2,
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2016 Drassil.org"
         },
@@ -366,17 +366,17 @@
           "_name": "menu",
           "_anchor": "menu-7",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#28324e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -409,23 +409,23 @@
           },
           "_anchor": "header1-f",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
             "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/thumb-1920-196720-2000x1200-75.jpg",
-            "bgColor": "#a07e49",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "title": "DRASSIL",
           "text": "Drassil è un network di server privati di World of Warcraft nato dalla collaborazione tra AzerothShard e NewAge. Grazie a Drassil gli utenti sono in grado di accedere a più server senza necessità di modificare realmlist o creare un nuovo account. <br>Drassil punta a riunire la community italiana sotto un unico network così da poter offrire, grazie al contributo di tutti i server, la migliore esperienza di gioco possibile.<br>",
