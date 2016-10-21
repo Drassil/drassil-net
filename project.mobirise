@@ -63,13 +63,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -81,16 +81,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#171c2c"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#232c44!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#28324e"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -109,10 +109,10 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#28324e",
+            "bgColor": "#ffffff",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -124,7 +124,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/drassil-640x128-62.png",
+              "src": "@PROJECT_PATH@/assets/images/drassil-612x128-23.png",
               "height": 128,
               "alt": "Drassil",
               "link": "http://drassil.org",
@@ -320,13 +320,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -338,16 +338,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#171c2c"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#232c44!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#28324e"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -366,10 +366,10 @@
           "_name": "menu",
           "_anchor": "menu-7",
           "_params": {
-            "bgColor": "#28324e",
+            "bgColor": "#ffffff",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
@@ -381,7 +381,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/drassil-640x128-62.png",
+              "src": "@PROJECT_PATH@/assets/images/drassil-612x128-12.png",
               "height": 128,
               "alt": "Drassil",
               "link": "http://drassil.org",

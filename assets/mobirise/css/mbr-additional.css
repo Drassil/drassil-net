@@ -424,15 +424,15 @@ h6,
   color: #ffffff;
 }
 #menu-0 .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #ffffff;
+  background-color: #000000;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #ffffff;
+  color: #000000;
 }
 #menu-0 .link {
   font-size: 0.75rem;
@@ -449,22 +449,22 @@ h6,
 }
 #menu-0 .link[aria-expanded="true"],
 #menu-0 .dropdown-menu {
-  background: #171c2c;
+  background: #e6e6e6;
 }
 #menu-0 .nav-dropdown-sm .link:focus,
 #menu-0 .nav-dropdown-sm .link:hover,
 #menu-0 .nav-dropdown-sm .dropdown-item:focus,
 #menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #232c44!important;
+  background: #f7f7f7!important;
 }
 #menu-0 .navbar,
 #menu-0 .nav-dropdown-sm,
 #menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #28324e;
+  background: #ffffff;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #ffffff;
+  color: #000000;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -498,15 +498,15 @@ h6,
   color: #ffffff;
 }
 #menu-7 .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #menu-7 .close-icon::before,
 #menu-7 .close-icon::after {
-  background-color: #ffffff;
+  background-color: #000000;
 }
 #menu-7 .link,
 #menu-7 .dropdown-item {
-  color: #ffffff;
+  color: #000000;
 }
 #menu-7 .link {
   font-size: 0.75rem;
@@ -523,22 +523,22 @@ h6,
 }
 #menu-7 .link[aria-expanded="true"],
 #menu-7 .dropdown-menu {
-  background: #171c2c;
+  background: #e6e6e6;
 }
 #menu-7 .nav-dropdown-sm .link:focus,
 #menu-7 .nav-dropdown-sm .link:hover,
 #menu-7 .nav-dropdown-sm .dropdown-item:focus,
 #menu-7 .nav-dropdown-sm .dropdown-item:hover {
-  background: #232c44!important;
+  background: #f7f7f7!important;
 }
 #menu-7 .navbar,
 #menu-7 .nav-dropdown-sm,
 #menu-7 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-7 .nav-dropdown-sm .dropdown-menu {
-  background: #28324e;
+  background: #ffffff;
 }
 #menu-7 .bg-color.transparent .link {
-  color: #ffffff;
+  color: #000000;
   transition: none;
 }
 #menu-7 .bg-color.transparent.opened .link {
