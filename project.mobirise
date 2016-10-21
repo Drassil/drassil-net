@@ -124,7 +124,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/drassil-612x128-23.png",
+              "src": "@PROJECT_PATH@/assets/images/drassil-612x128-98.png",
               "height": 128,
               "alt": "Drassil",
               "link": "http://drassil.org",
@@ -381,7 +381,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/drassil-612x128-12.png",
+              "src": "@PROJECT_PATH@/assets/images/drassil-612x128-38.png",
               "height": 128,
               "alt": "Drassil",
               "link": "http://drassil.org",
