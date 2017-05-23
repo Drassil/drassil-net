@@ -740,6 +740,10 @@ h6,
 #header3-5 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-a .mbr-section-title,
+#header3-a .mbr-section-subtitle {
+  text-align: center;
+}
 #features3-3 H4 {
   color: #ffffff;
 }
