@@ -3,7 +3,7 @@
     "currentPage": "games.html",
     "versionFirst": "3.8.1",
     "uniqCompNum": 11,
-    "versionPublish": "3.12.1",
+    "versionPublish": "4.2.4",
     "name": "Drassil.Net",
     "theme": {
       "name": "mobirise3",
@@ -50,13 +50,13 @@
             "paddingTop": 2,
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2016 Drassil.net - Supported by <a href=\"http://www.drassil.org\" target=\"_blank\">Drassil.org</a>"
         },
@@ -115,17 +115,17 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -158,10 +158,10 @@
           "_name": "header3",
           "_anchor": "header3-5",
           "_params": {
+            "showMeta": true,
             "paddingTop": "6",
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "World of Warcraft<br>Resources",
           "meta": "private communities"
@@ -173,25 +173,25 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-8",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": 0,
             "paddingBottom": 0,
-            "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/151923-2000x1500.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": "0.7"
           },
           "media": {
             "image": {
@@ -218,140 +218,6 @@
           "title": "WoWGaming",
           "text": "<b>Free</b> &nbsp;and &nbsp;<b>OpenSource</b> &nbsp;<b>resource</b> site &nbsp;for World of Warcraft<br>Subdivided by expansions<br><i>It includes a wiki and a db search engine!</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.wowgaming.org\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VISIT</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-a",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "WoW Games",
-          "meta": "Private Communities"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true,
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "columns": "2",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/env-northrend14-full-2000x1335-63-2000x1335-23.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0.3"
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/forum-banner-600x135-98.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://azerothshard.org/",
-              "alt": "azerothshard.org",
-              "title": "AzerothShard",
-              "linkInNewWindow": true
-            }
-          },
-          "title1": "Wrath of the lich king passion",
-          "subtitle1": "Best Italian wotlk experience<br>",
-          "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://azerothshard.org\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER</a> <a data-app-btn=\"true\" href=\"https://azerothshard.org\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LAUNCHER</a>  ",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-600x136-54.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "http://wownewage.com",
-              "alt": "NewAge",
-              "title": "NewAge",
-              "linkInNewWindow": true
-            }
-          },
-          "title2": "Un nuovo modo di giocare WoW",
-          "subtitle2": "Il primo server italiano totalmente moddato",
-          "caption2": "Nuove mappe, nuovi item, nuove mount, incredibili e divertenti modalità di gioco mai viste prima.<br>Entra e scopri la Nuova Era.",
-          "button2": "<a data-app-btn=\"true\" href=\"http://wownewage.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PIU INFO</a>",
-          "media3": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_customHTML": "<section class=\"mbr-cards mbr-section mbr-section-nopadding mbr-parallax-background mbr-after-navbar\" style=\"background-image: url(@PROJECT_PATH@/assets/images/env-northrend14-full-2000x1335-63-2000x1335-23.jpg);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(34, 34, 34);\">\n    </div>\n\n    <div class=\"mbr-cards-row row\">\n        <div class=\"mbr-cards-col col-xs-12 col-lg-12\" style=\"padding-top: 160px; padding-bottom: 160px;\">\n            <div class=\"container\">\n              <div class=\"card cart-block\">\n                  <div class=\"card-img\"><a href=\"https://azerothshard.org/\" target=\"_blank\"><img src=\"@PROJECT_PATH@/assets/images/forum-banner-600x135-98.png\" class=\"card-img-top\" alt=\"azerothshard.org\" title=\"AzerothShard\"></a></div>\n                  <div class=\"card-block\">\n                    <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"17\">Wrath of the lich king passion</h4>\n                    <h5 class=\"card-subtitle mbr-editable-content\" style=\"color: rgb(193, 193, 193);\" code-editable-id=\"18\">Most WoW played expansion</h5>\n                    <p class=\"card-text mbr-editable-content\" code-editable-id=\"19\"><strong>The best Wrath of The Lich King  blizzlike and fun experience.<br>It includes RPG , PvP and PvE modalies.<br>Currently only italian language support is offered</strong></p>\n                    <div class=\"card-btn\"><a href=\"https://azerothshard.org\" class=\"btn btn-primary mbr-editable-button\" target=\"_blank\" code-editable-id=\"20\">JOIN &amp; PLAY</a> <a href=\"http://app.drassil.net/site/it/azerothshard/\" class=\"btn btn-primary mbr-editable-button\" target=\"_blank\" code-editable-id=\"21\">LAUNCHER</a>  </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n\n        \n        \n        \n        \n    </div>\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "@import url(undefined);\nH4 {\n\tcolor: #ffffff;\n}\nP {\n\tcolor: #ffffff;\n}\nH5 {\n\tcolor: #c1c1c1;\n}\n",
-          "_customTemplate": true,
-          "_anchor": "features3-3"
         },
         {
           "_inherit": "social-buttons2",
@@ -396,13 +262,13 @@
             "paddingTop": 2,
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#323232",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
           },
           "text": "Copyright (c) 2016 Drassil.net - Supported by <a href=\"http://www.drassil.org\" target=\"_blank\">Drassil.org</a>"
         },
@@ -461,17 +327,17 @@
           "_name": "menu",
           "_anchor": "menu-1",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#ffffff",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -504,23 +370,23 @@
           },
           "_anchor": "header1-2",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
             "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/thumb-1920-196720-2000x1200-75.jpg",
-            "bgColor": "#a07e49",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "title": "DRASSIL.NET",
           "text": "We are a network of gaming communities supported by <a href=\"http://www.drassil.org\">Drassil.org</a> and other <a href=\"partners.html\">partners</a>.<br><b>Our goals</b>: promoting and organizing live &amp; online gaming sessions.<br><br>Do you want join Drassil.net?<br>Contact us on <a href=\"https://discord.gg/tUGPfdS\" target=\"_blank\">Discord</a><br><br>",
